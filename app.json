@@ -8,11 +8,11 @@
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
         },  
-        "API_ID": 29191829{
+        "API_ID": {
             "description": "Your API Id from my.telegram.org",
             "value": ""
         },
-        "API_HASH": edc0cddfefeeeac4205ec8f1f97c29d8 { 
+        "API_HASH":  { 
 		
             "description": "Your API Hash from my.telegram.org",
             "value": ""
