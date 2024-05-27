@@ -1,7 +1,7 @@
 import os
 
 
-class Mody(object):
+class elzoz(object):
     ELHYBA = os.environ.get("ELHYBA", "")
     
     API_ID = int(os.environ.get("API_ID", "29191829"))
