@@ -1,6 +1,6 @@
 import requests
 
-url = "https://t.me/sourzxxlz"
+url = "https://t.me/zxxlz"
 response = requests.get(url).content
 
 # print(response)
