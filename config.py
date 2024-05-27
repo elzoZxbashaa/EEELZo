@@ -1,2 +1,2 @@
-from mody import Mody
-Token = Mody.ELHYBA
+from mody import ELZOZ
+Token = ELZOZ.ELHYBA
