@@ -7,12 +7,13 @@
         "ELHYBA": {
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
-        },  #اتركها كما هيا
-        "API_ID": {29191829
+        },  
+        "API_ID": 29191829{
             "description": "Your API Id from my.telegram.org",
             "value": ""
         },
-        "API_HASH": { edc0cddfefeeeac4205ec8f1f97c29d8
+        "API_HASH": edc0cddfefeeeac4205ec8f1f97c29d8 { 
+		
             "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
